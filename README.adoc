@@ -22,7 +22,7 @@ PS: I did not proofread any of the scanned documents. Please report any errors.
 
 PPS: Anyone interested in making some of this code actually run, perhaps using an emulator such as Emma 02, or on Cosmac or Elf 1802 hardware, is invited to upload appropriate code in any sort of existing machine-readable ASCII format. Simply create your own branch and send me a Pull Request, and I will include your branch in the repository. (Binary code files cannot be accepted. Sorry. WAV files are okay though; e.g. from a cassette recording. It seems odd now, but I used a semi-pro reel-to-reel 4-track Teac to record my Cosmac files, segmented with splicing tape! None survives.)
 
-PPPS: If you make or have made a donation to my web site, ask me what Chip-8 means. I'll write back with my answer privately. I can't be 100% sure that I'm right, but I think I am.
+PPPS: If you make or have made a donation to my web site, or for any other suitable reason (up to you), email me about what Chip-8 means. I'll write back with my answer privately. I can't be 100% sure that I'm right, but I think I am.
 
 PPPPS: The above offer does not appear anywhere else! Share with care.
 
