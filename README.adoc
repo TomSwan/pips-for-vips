@@ -22,7 +22,7 @@ PS: I did not proofread any of the scanned documents. Please report any errors.
 
 PPS: Anyone interested in making some of this code actually run, perhaps using an emulator such as Emma 02, or on Cosmac or Elf 1802 hardware, is invited to upload appropriate code in any sort of existing machine-readable ASCII format. Simply create your own branch and send me a Pull Request, and I will include your branch in the repository. (Binary code files cannot be accepted. Sorry. WAV files are okay though; e.g. from a cassette recording. It seems odd now, but I used a semi-pro reel-to-reel 4-track Teac to record my Cosmac files, segmented with splicing tape! None survives.)
 
-PPPS: If you make or have made a donation to my web site, or for any other suitable reason (up to you), email me about what Chip-8 means. I'll write back with my answer privately. I can't be 100% sure that I'm right, but I think I am.
+PPPS: If you make or have made a donation to my web site, email me about what Chip-8 means. I'll write back with my answer privately. I can't be 100% sure that I'm right, but I think I am.
 
 PPPPS: The above offer does not appear anywhere else! Share with care.
 
@@ -34,13 +34,17 @@ SSSSSST: Enough already with the Ps...
 
 // -----------------------------------------------------------------
 
+Thu 23 Apr 2020 04:59:45 PM EDT
+
+In process of moving to projects. Delete after.
+
 == Pips for VIPs -- The Story
 
 I became enthralled (and that says it) with computer programming while I was business manager for Clair Brothers Audio, then and now the leading name in concert sound, in Lititz Pennsylvania, where I grew up. The company's client list resembled a Rock and Roll Hall of Fame roster and I regularly handled calls from the crews and management for touring artists such as Elton John, Queen, Chicago, Rod Stewart, Peter Frampton..., on and on with never a non-familiar name appearing.
 
 How such a company came to exist in a little farm town surrounded by Amish villages is another story. A really cool story -- for another time. Hint: Watch The Jersey Boys!
 
-Please don't think I'm dropping names in order to boast -- my job was to handle the payroll and to help with the logistics of trucks and planes and crew members. I almost never got to go to concerts, and I did not hardly ever talk to the stars. Bette Midler chewed me out once after I broke all her stage lights by leasing the wrong kind of truck. I thank her for that regularly. After you get chewed out by Bette Midler, there is nothing anybody can say to get to you. It gives one a certain kind of immunity.
+Please don't think I'm dropping names in order to boast -- my job was to handle the payroll and to help with the logistics of trucks and planes and crew members. I almost never got to go to concerts, and I did not hardly ever talk to the stars. Bette Midler chewed me out once after I broke all her stage lights by leasing the wrong kind of truck. I thank her silently in my mind for that regularly. After you get chewed out by Bette Midler, there is nothing anybody can say to get to you. It gives one a certain kind of immunity.
 
 The reason that I bring up rock and roll is because digital audio was just around the corner in those days, the mid 1970s, and the company had purchased a PDP-8 microcomputer with a huge Dec line printer that was as big as the desk at which I am now working. The stated intention for the purchase was to develop digital audio circuitry and to experiment with digital delays -- a notion that would soon change outdoor concert sound forever. But we all mostly played Lunar Lander on it, burning though a small forest of green-lined computer paper with sheets as wide as full pages of The New York Times. I had to order ream after ream of folded paper and I remember hoping the accountant wouldn't call me out for the extra expense.
 
