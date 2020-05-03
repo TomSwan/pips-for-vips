@@ -4,7 +4,7 @@
 
 by Tom Swan
 
-In this repository are replicas of the first three books that I ever wrote, "Pips for VIPs" volumes I, II, and III, published by Aresco. The listings in the books' pages contain a mixture of 1802 machine language and Chip-8 "threaded" code, an interpreted symbolic language designed for controlling the Cosmac VIP computer and the 1802, both manufactured by RCA in the 1970s.
+In this repository are replicas of the first three books that I ever wrote, "Pips for VIPs" volumes I, II, and III, published by Aresco. The listings in the books' pages contain a mixture of 1802 machine language and CHIP-8 "threaded" code, an interpreted symbolic language designed for controlling the Cosmac VIP computer and the 1802, both manufactured by RCA in the 1970s.
 
 image::pips-composite.png[]
 
@@ -58,7 +58,7 @@ One fine day, I was encouraged to purchase directly from RCA a Cosmac VIP hobbyi
 - - -
 // -----------------------------------------------------------------
 
-Time passed while my digital addiction consumed me. I quit my job and moved to southern Mexico up in the Sierra mountain chains in the silver-mining and jewelry capital town of Taxco. We drank cheap bottles of Corona while I inhaled code and snacked on algorithms. I intended to write the Great American Novel, but I instead mostly studied Lisp, Pascal, Forth, Fortran, Basic, Mix, and of course 1802 and Chip-8. Believe it or not, I wrote a functional Mix interpreter in 1802 assembly language. I have no idea what became of it, but it correctly executed many of Knuth's algorithms. Soon I gave up story writing and turned entirely to code and then, for the next 30 years, to writing about code and programming.
+Time passed while my digital addiction consumed me. I quit my job and moved to southern Mexico up in the Sierra mountain chains in the silver-mining and jewelry capital town of Taxco. We drank cheap bottles of Corona while I inhaled code and snacked on algorithms. I intended to write the Great American Novel, but I instead mostly studied Lisp, Pascal, Forth, Fortran, Basic, Mix, and of course 1802 and CHIP-8. Believe it or not, I wrote a functional Mix interpreter in 1802 assembly language. I have no idea what became of it, but it correctly executed many of Knuth's algorithms. Soon I gave up story writing and turned entirely to code and then, for the next 30 years, to writing about code and programming.
 
 My wife at the time, Anne, and I hand typed the entire Pips for VIPs texts on a portable Smith Corona typewriter in our apartment in Taxco, where I wrote the books originally by hand in pencil (my working preference then). Final copies of the entire manuscripts, including all listings, were then re-typed by the two of us from relatively cheap newsprint drafts onto 100% cotton paper imported from San Antonio -- I can't remember why that was so important to me; I remember only that it was. My friend Bill Alexander flew two reams of it with him from Texas to Mexico City, as he had done before with all three of Knuth's heavy college-level texts, The Art of Computer Science. The lone original Pips manuscript was sent to the publisher. I don't know what happened to it. I devoured Knuth, absorbing everything I could except for the mathematical proofs, in which I had no interest.
 
