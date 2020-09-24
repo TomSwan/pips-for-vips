@@ -103,12 +103,12 @@ For more stuff, please browse my repositories on GitHub. It's where I store all 
 
 Please also follow the links below to visit my web site, GitHub and YouTube channels. Write to me at tom@tomswan.com. Suggestions and comments on my work are _always appreciated._ I remain committed to exploring computer and music topics and then writing and making videos about what I manage to learn. Please tune in! Good luck!
 
-Program Listings: https://github.com/TomSwan/collections
+- Website: https://www.tomswan.com
 
-Website: https://www.tomswan.com
+- Book Listings: https://tomswan.com/pub/collections/
 
-GitHub: https://github.com/TomSwan
+- GitHub: https://github.com/TomSwan
 
-YouTube: https://www.youtube.com/user/TomSwanPlaysGuitar
+- YouTube: https://www.youtube.com/user/TomSwanPlaysGuitar
 
-* Say it fast: 10 Q (thank you!)
+- Twitter: https://twitter.com/TomSwanGuitar
